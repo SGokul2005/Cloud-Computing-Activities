@@ -80,8 +80,10 @@
 ![creation file system 2](https://github.com/user-attachments/assets/cb59093d-ed82-446f-8c89-fc0cfd8fc2bd)
 
 ### file created in machine 1
+![file creation on machine (1)](https://github.com/user-attachments/assets/919c8d02-002f-4402-bfd6-3d656291fdd4)
 
 ### file reflected in machine 2
+![file creation on machine (2)](https://github.com/user-attachments/assets/0e634935-f102-4145-a42a-0f0690338eea)
 
 ## TOPIC 6: LOAD BALANCER
 ### creation of target group
