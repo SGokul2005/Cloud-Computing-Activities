@@ -104,7 +104,17 @@
 ### creation of extra ec2
 
 ## TOPIC 8: SQL
-  
+ ![1](https://github.com/user-attachments/assets/10dd8ca0-efc2-4643-a3ec-ae55f951d2fd)
+ ![2](https://github.com/user-attachments/assets/292596f9-143f-41ce-a25d-3cc93f20845f)
+![3](https://github.com/user-attachments/assets/e0697ae3-9735-43f7-a2a9-4fb6507eb8dc)
+![4](https://github.com/user-attachments/assets/b175404e-aefb-495d-bd1f-7d3f190c22cb)
+![5](https://github.com/user-attachments/assets/9cd718e1-2a64-4377-ae72-e09fa022c0d2)
+![6](https://github.com/user-attachments/assets/e596a1db-7b9e-4c56-a30a-910be9caf8d1)
+![7](https://github.com/user-attachments/assets/28fbbe7a-731c-460b-b280-7e690df4a809)
+![8](https://github.com/user-attachments/assets/e5025e66-b8fa-4365-b110-f3647ca59df1)
+![9](https://github.com/user-attachments/assets/811e18ff-f8d9-4b14-a1fe-c09bb07a564c)
+![10](https://github.com/user-attachments/assets/87e10c1d-f159-4e44-9b9d-6ca62977dce8)
+
 ## TOPIC 9: PROJECT
 ### creation of two machines
 
