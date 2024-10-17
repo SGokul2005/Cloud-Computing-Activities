@@ -70,7 +70,6 @@
 
 ## TOPIC 5:EFS
 ### Creation of target group
-
 ![Target group](https://github.com/user-attachments/assets/ea85502a-55aa-4bea-a22d-171375cec064)
 
 ### creation of file system
@@ -87,23 +86,29 @@
 
 ## TOPIC 6: LOAD BALANCER
 ### creation of target group
+![Target group](https://github.com/user-attachments/assets/ea85502a-55aa-4bea-a22d-171375cec064)
 
 ### creation of classic load balancer
+![classic load balancer](https://github.com/user-attachments/assets/e608741c-0e06-42b5-aab1-f9903ec06c70)
 
 ### creation of application load balancer
+![application load balancer](https://github.com/user-attachments/assets/794ec6dc-1f0c-451d-a7af-1bdcf8029b4e)
 
 ### result of both the balancer shown in chrome
 
 ## TOPIC 7: AUTO SCALING
 ### creation of target group
+![Target group](https://github.com/user-attachments/assets/ea85502a-55aa-4bea-a22d-171375cec064)
 
 ### creation of load balancer
+![classic load balancer](https://github.com/user-attachments/assets/e608741c-0e06-42b5-aab1-f9903ec06c70)
 
 ### automatic creation of ec2
 
 ### load increased by stress shown in terminal
 
 ### creation of extra ec2
+![extra ec2](https://github.com/user-attachments/assets/9c34eb16-9f80-40c3-a6df-944a86fb8ead)
 
 ## TOPIC 8: SQL
  ![1](https://github.com/user-attachments/assets/10dd8ca0-efc2-4643-a3ec-ae55f951d2fd)
