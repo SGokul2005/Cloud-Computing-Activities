@@ -3,11 +3,22 @@
 ## TOPIC 1: NETWORKING
 ### virtual machine
 ![virtual machine](https://github.com/user-attachments/assets/e0fc61b1-b55e-47ca-9fe7-75066532dacb)
+
 ### ip address
 ![ipaddress](https://github.com/user-attachments/assets/7492c9b3-e309-431a-8b26-606a4a3e94e7)
 
 ### linux commands
-[linux commands.pdf](https://github.com/user-attachments/files/17389192/linux.commands.pdf)
+![linux commands_page-0003](https://github.com/user-attachments/assets/540e1c43-44bc-4848-ae2e-b6ac5f208634)
+![linux commands_page-0011](https://github.com/user-attachments/assets/414d5e29-0cd5-4d57-a1a7-b41e7683a84e)
+![linux commands_page-0004](https://github.com/user-attachments/assets/109ade30-bdd1-4626-a043-bda60eebb287)
+![linux commands_page-0001](https://github.com/user-attachments/assets/42e397a6-6da1-4370-bbe5-0d138643811e)
+![linux commands_page-0010](https://github.com/user-attachments/assets/4d343a0c-8d27-403a-bea8-a625199fca6a)
+![linux commands_page-0009](https://github.com/user-attachments/assets/feb73e38-ee24-44d7-93d0-a7bddf7cbe03)
+![linux commands_page-0008](https://github.com/user-attachments/assets/162ff621-cabb-4e50-b666-c1b3cc24f5cc)
+![linux commands_page-0002](https://github.com/user-attachments/assets/23d6ea5c-685d-4d89-ba3b-9bcf33f114ff)
+![linux commands_page-0005](https://github.com/user-attachments/assets/31fe8ca7-cb82-430b-a190-2e22c0e02d73)
+![linux commands_page-0006](https://github.com/user-attachments/assets/77708e14-4cd1-4faf-bae3-83d2b722989f)
+![linux commands_page-0007](https://github.com/user-attachments/assets/ee184e01-3222-49a7-a3bd-dd30e8ab8bdd)
 
 ### test page
 
